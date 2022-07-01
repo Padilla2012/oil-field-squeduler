@@ -1,0 +1,5 @@
+[user]
+	email = padilla-silva@hotmail.com
+	name = padilla2012
+[credential "https://smu.bootcampcontent.com"]
+	provider = generic
